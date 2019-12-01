@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "nome": "test2",
+      "autor": "testando2",
+      "versao": "Testando D",
+      "gravadora": "Test",
+      "estilo": "TEST",
+      "preco": "222",
+      "quantidade": "2312312",
+      "id": 2
+    },
+    {
+      "nome": "",
+      "autor": "",
+      "versao": "",
+      "gravadora": "",
+      "estilo": "",
+      "preco": "177777",
+      "quantidade": "",
+      "id": 3
+    },
+    {
+      "nome": "",
+      "autor": "",
+      "versao": "",
+      "gravadora": "",
+      "estilo": "",
+      "preco": "787.99",
+      "quantidade": "",
+      "id": 4
+    }
+  ]
+}
